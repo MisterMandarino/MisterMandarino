@@ -14,8 +14,8 @@
 - :school: I am a `Student` In Artificial Intelligence Systems at [University of Trento](https://www.unitn.it/).
 - :student: I’m currently learning `Computer Science` and `Financial Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/MisterMandarino/MisterMandarino/blob/main/Giovanni_scialla_CV.pdf).
+- :boom: You can visit [MY WEBSITE](https://mistermandarino.github.io/).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
