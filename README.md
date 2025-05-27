@@ -14,7 +14,7 @@
 - :school: I am a `Student` In Artificial Intelligence Systems at [University of Trento](https://www.unitn.it/).
 - :student: I’m currently learning `Computer Science` and `Financial Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/MisterMandarino/MisterMandarino/blob/main/Giovanni_scialla_CV.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/MisterMandarino/MisterMandarino/blob/main/CV_27_05.pdf).
 - :boom: You can visit [MY WEBSITE](https://mister-mandarino-github-io.vercel.app/).
 <br>
 
