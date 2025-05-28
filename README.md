@@ -51,6 +51,9 @@
 	
 <div>
   <p align="center">
+	  <a href="https://github.com/MisterMandarino/neu4mes-framework">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MisterMandarino&repo=neu4mes-framework&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/MisterMandarino/Learning-Prompts-for-Transfer-Learning">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MisterMandarino&repo=Learning-Prompts-for-Transfer-Learning&theme=tokyonight" alt="GitHub Stats" />
     	</a>
